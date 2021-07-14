@@ -10,6 +10,7 @@ name: Rodrigo Lallana
 title: Software Enginiier
 email: rj.lallana@gmail.com
 website: www.github.com/rjlallana
+phone_number: 649596301
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -22,7 +23,7 @@ github_username:  rjlallana
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: rodrigolallana
-linkedin_username: jameswgrant
+linkedin_username: rodrigo-lallana
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -54,40 +55,35 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Aptitudes # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-    - title: Programacion
-      content: |
-        * Nivel intermedio de Python, Java, C/C++, C#, JavaScript, Kotlin, Matlab
-        * Experiencia con Python usando librerías como Numpy, Pandas, TensorFlow y Pytorch
-        * Experiencia con Java y Spring Boot para crear APIs REST
-        * Experiencia con programación orientada a objetos, estructuras de datos, algoritmos de ordenación, concurrencia y análisis de algoritmos y su complejidad.
-        * Conocimiento de desarrollo web (Bootstrap, React, VUE) y desarrollo Android
+    layout: text # Type of content section (list/text)
+    content: |
+      # Programacion
+          * Nivel intermedio de Python, Java, C/C++, C#, JavaScript, Kotlin, Matlab
+          * Experiencia con Python usando librerías como Numpy, Pandas, TensorFlow y Pytorch
+          * Experiencia con Java y Spring Boot para crear APIs REST
+          * Experiencia con programación orientada a objetos, estructuras de datos, algoritmos de ordenación, concurrencia y análisis de algoritmos y su complejidad.
+          * Conocimiento de desarrollo web (Bootstrap, React, VUE) y desarrollo Android
 
-    - title: Programacion
-      content: |
-        * Conocimiento sobre metodologías de desarrollo software y su ciclo de vida
-        * Experiencia con la metodología de desarrollo ágil Scrum y con la metodología DevOps
-        * Experiencia con Linux, bash y Git/Github para control de versiones
-        * Conocimiento sobre calidad del software y técnicas de testing
+      # Desarrollo Software
+          * Conocimiento sobre metodologías de desarrollo software y su ciclo de vida
+          * Experiencia con la metodología de desarrollo ágil Scrum y con la metodología DevOps
+          * Experiencia con Linux, bash y Git/Github para control de versiones
+          * Conocimiento sobre calidad del software y técnicas de testing
 
-    - title: Machine Learning
-      content: |
-        * Conocimiento de los fundamentos matemáticos de Machine Learning.
-        * Experiencia con algoritmos de aprendizaje supervisado y no supervisado.
-        * Experiencia con Deep Learning y el uso de diferentes tipo de redes de neuronas
+      # Machine Learning
+          * Conocimiento de los fundamentos matemáticos de Machine Learning.
+          * Experiencia con algoritmos de aprendizaje supervisado y no supervisado.
+          * Experiencia con Deep Learning y el uso de diferentes tipo de redes de neuronas
 
-    - title: Base de Datos
-      content: |
-        * Nivel intermedio de SQL(MySQL) 
-        * Experiencia con modelaje y optimización de acceso a base de datos relacionales.
-        * Experiencia con modelos de datos semiestructurados como XML y de modelos de datos NoSQL como MongoDB
+      # Base de Datos
+          * Nivel intermedio de SQL(MySQL) 
+          * Experiencia con modelaje y optimización de acceso a base de datos relacionales.
+          * Experiencia con modelos de datos semiestructurados como XML y de modelos de datos NoSQL como MongoDB
 
-    - title: Idiomas
-      content: |
-        * Fluidez para comunicarme en Inglés tanto de forma oral como escrita
-        * Nivel C1 de Inglés en 2020, OLS (Prueba de Nivel de la UE para estancias Erasmus)
-        * Nivel B2 de Inglés en 2015, Cambridge First Certificate
+      # Idiomas
+          * Fluidez para comunicarme en Inglés tanto de forma oral como escrita
+          * Nivel C1 de Inglés en 2020, OLS (Prueba de Nivel de la UE para estancias Erasmus)
+          * Nivel B2 de Inglés en 2015, Cambridge First Certificate
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
