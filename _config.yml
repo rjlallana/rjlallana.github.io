@@ -6,26 +6,26 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Rodrigo Lallana
+title: Software Enginiier
+email: rj.lallana@gmail.com
+website: www.github.com/rjlallana
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: godrik
+github_username:  rjlallana
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
+instagram_username: rodrigolallana
 linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -45,32 +45,49 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: Sobre mi
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Tengo 23 años, soy un estudiante de Ingeniería de Software en la Universidad Politécnica de Madrid. Tengo todas las asignaturas superadas, a falta de realizar las prácticas externas y terminar el proyecto de fin de grado. Mi intención es incorporarme al mundo laboral una vez obtenido el título y plantearme realizar un master compaginandolo con el trabajo.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  En 2020 fui de Erasmus a la universidad Tecnológica de Tallin 6 meses donde entre otras asignaturas curse una asignatura de máster sobre Machine Learning.  Me considero una persona abierta, tolerante, proactiva, detallista, con capacidad autodidacta y con mucha motivación para aprender y desarrollarme a nivel profesional.
 
 content:
-  - title: Projects # Title for the section
+  - title: Aptitudes # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    - title: Programacion
+      content: |
+        * Nivel intermedio de Python, Java, C/C++, C#, JavaScript, Kotlin, Matlab
+        * Experiencia con Python usando librerías como Numpy, Pandas, TensorFlow y Pytorch
+        * Experiencia con Java y Spring Boot para crear APIs REST
+        * Experiencia con programación orientada a objetos, estructuras de datos, algoritmos de ordenación, concurrencia y análisis de algoritmos y su complejidad.
+        * Conocimiento de desarrollo web (Bootstrap, React, VUE) y desarrollo Android
+
+    - title: Programacion
+      content: |
+        * Conocimiento sobre metodologías de desarrollo software y su ciclo de vida
+        * Experiencia con la metodología de desarrollo ágil Scrum y con la metodología DevOps
+        * Experiencia con Linux, bash y Git/Github para control de versiones
+        * Conocimiento sobre calidad del software y técnicas de testing
+
+    - title: Machine Learning
+      content: |
+        * Conocimiento de los fundamentos matemáticos de Machine Learning.
+        * Experiencia con algoritmos de aprendizaje supervisado y no supervisado.
+        * Experiencia con Deep Learning y el uso de diferentes tipo de redes de neuronas
+
+    - title: Base de Datos
+      content: |
+        * Nivel intermedio de SQL(MySQL) 
+        * Experiencia con modelaje y optimización de acceso a base de datos relacionales.
+        * Experiencia con modelos de datos semiestructurados como XML y de modelos de datos NoSQL como MongoDB
+
+    - title: Idiomas
+      content: |
+        * Fluidez para comunicarme en Inglés tanto de forma oral como escrita
+        * Nivel C1 de Inglés en 2020, OLS (Prueba de Nivel de la UE para estancias Erasmus)
+        * Nivel B2 de Inglés en 2015, Cambridge First Certificate
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
