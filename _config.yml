@@ -7,9 +7,10 @@ version: 2
 
 # Personal info
 name: Rodrigo Lallana
-title: Software Enginiier
+title: Ingeniero software
 email: rj.lallana@gmail.com
 website: www.github.com/rjlallana
+additional_info:
 phone_number: 649596301
 city: Madrid
 
@@ -32,9 +33,9 @@ linkedin_username: rodrigo-lallana
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: 649596301
-- title: Madrid
+# additional_links:
+# - title: 649596301
+# - title: Madrid
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -105,13 +106,13 @@ content:
   - title: Formación # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: center
+      - layout: top-middle
         title: Universidad Tecnológica de Tallin (TalTech) 
         caption: 2020
         sub_title: Estancia Erasmus
         # description: | # this will include new lines to allow paragraphs
 
-      - layout: center
+      - layout: top-middle
         title: Universidad Politécnica de Madrid 
         sub_title: Grado de Ingeniería del Software
         # description: | # this will include new lines to allow paragraphs
@@ -121,6 +122,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       Aparte de mi interes en todo el mundo tecnologico, otros intereses y hobbies que tengo son:
       - Viajar
+      - Videojuegos
       - Escalada y montañismo
       - Gimnasia
       - Construir drones
