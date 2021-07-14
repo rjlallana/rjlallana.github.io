@@ -55,32 +55,42 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Aptitudes # Title for the section
-    layout: text # Type of content section (list/text)
-    content: |
-      # Programacion
+    layout: list # Type of content section (list/text)
+    content:
+    - layout: left
+      sub_title: Programacion
+      caption: |
           * Nivel intermedio de Python, Java, C/C++, C#, JavaScript, Kotlin, Matlab
           * Experiencia con Python usando librerías como Numpy, Pandas, TensorFlow y Pytorch
           * Experiencia con Java y Spring Boot para crear APIs REST
           * Experiencia con programación orientada a objetos, estructuras de datos, algoritmos de ordenación, concurrencia y análisis de algoritmos y su complejidad.
           * Conocimiento de desarrollo web (Bootstrap, React, VUE) y desarrollo Android
 
-      # Desarrollo Software
+    - layout: left
+      sub_title: Desarrollo Software
+      caption: |
           * Conocimiento sobre metodologías de desarrollo software y su ciclo de vida
           * Experiencia con la metodología de desarrollo ágil Scrum y con la metodología DevOps
           * Experiencia con Linux, bash y Git/Github para control de versiones
           * Conocimiento sobre calidad del software y técnicas de testing
 
-      # Machine Learning
+    - layout: left
+      sub_title: Machine Learning
+      caption: |
           * Conocimiento de los fundamentos matemáticos de Machine Learning.
           * Experiencia con algoritmos de aprendizaje supervisado y no supervisado.
           * Experiencia con Deep Learning y el uso de diferentes tipo de redes de neuronas
 
-      # Base de Datos
+    - layout: left
+      sub_title: Base de Datos
+      caption: |
           * Nivel intermedio de SQL(MySQL) 
           * Experiencia con modelaje y optimización de acceso a base de datos relacionales.
           * Experiencia con modelos de datos semiestructurados como XML y de modelos de datos NoSQL como MongoDB
 
-      # Idiomas
+    - layout: left
+      sub_title: Idiomas
+      caption: |          
           * Fluidez para comunicarme en Inglés tanto de forma oral como escrita
           * Nivel C1 de Inglés en 2020, OLS (Prueba de Nivel de la UE para estancias Erasmus)
           * Nivel B2 de Inglés en 2015, Cambridge First Certificate
