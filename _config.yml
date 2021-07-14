@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Aptitudes # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
     - layout: left
       sub_title: Programacion
