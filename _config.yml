@@ -44,7 +44,7 @@ linkedin_username: rodrigo-lallana
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+google_analytics: "G-ZRHHJ0758N"
 
 # About Section
 about_title: Sobre mi
